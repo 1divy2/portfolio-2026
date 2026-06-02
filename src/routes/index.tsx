@@ -13,13 +13,13 @@ import { Contact } from "@/components/sections/Contact";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Divy.dev — Full Stack Developer · Ready to build" },
+      { title: "Divy.dev" },
       {
         name: "description",
         content:
           "Portfolio of Divy, a full stack developer building fast, beautiful, production-grade software. Type-safe, animated with intent, shipped on time.",
       },
-      { property: "og:title", content: "Divy.dev — Ready to build" },
+      { property: "og:title", content: "Divy.dev" },
       {
         property: "og:description",
         content: "Premium full stack engineering. Game Boy DNA. Modern craft.",
