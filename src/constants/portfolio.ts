@@ -7,7 +7,7 @@ export const PROFILE = {
   available: true,
   location: "Udaipur, Rajasthan, India",
   email: "dadheech120404@gmail.com",
-  resumeUrl: "#",
+  resumeUrl: "https://drive.google.com/file/d/1d7xaQDcf5UAWUxf5c1TIi7N0t1HXDm-o/view?usp=drive_link",
   github: "https://github.com/1divy2",
   linkedin: "https://www.linkedin.com/in/divy-dadheech-211050290/",
   twitter: "https://x.com/1divy2",

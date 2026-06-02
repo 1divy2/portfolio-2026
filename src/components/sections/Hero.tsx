@@ -64,6 +64,10 @@ export function Hero() {
             </a>
             <button
               onClick={() => {
+                if (PROFILE.resumeUrl === "#") {
+                  alert("Resume coming soon!");
+                  return;
+                }
                 setDownloading(true);
                 setTimeout(() => {
                   setDownloading(false);
