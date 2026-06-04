@@ -97,7 +97,7 @@ export const PROJECTS: Project[] = [
     stack: ["React", "TanStack Router", "Firestore", "Tailwind CSS"],
     color: "coral",
     year: 2026,
-    liveUrl: "#", // Added so the Live button shows up next to Repo
+    liveUrl: "https://veritas-646ca.web.app/login",
     repoUrl: "https://github.com/1divy2/veritas-feed",
   },
   {
@@ -109,6 +109,7 @@ export const PROJECTS: Project[] = [
     stack: ["TanStack Start", "Tailwind CSS", "Firebase", "Recharts"],
     color: "cyan",
     year: 2024,
+    liveUrl: "https://stockpile.divysuper678.workers.dev/",
     repoUrl: "https://github.com/1divy2/stockpile-terminal"
   },
   {
@@ -120,6 +121,7 @@ export const PROJECTS: Project[] = [
     stack: ["React", "Spring Boot", "PostgreSQL", "TanStack"],
     color: "sky",
     year: 2024,
+    liveUrl: "https://shoppersend-lu9fp9pon-1divy2s-projects.vercel.app/",
     repoUrl: "https://github.com/1divy2/shoppersend",
   },
   {
@@ -131,6 +133,7 @@ export const PROJECTS: Project[] = [
     stack: ["React", "TypeScript", "TanStack Router", "Supabase"],
     color: "lavender",
     year: 2026,
+    liveUrl: "https://cortex-ai.divysuper678.workers.dev/",
     repoUrl: "https://github.com/1divy2/cOrTeX-aI"
   }
 ];
