@@ -89,15 +89,16 @@ export type Project = {
 
 export const PROJECTS: Project[] = [
   {
-    slug: "parkinsons-prediction",
-    title: "Parkinson's Prediction",
-    tagline: "End-to-end machine learning pipeline using biomedical features.",
-    problem: "Needed a way to predict Parkinson's disease using patient biomedical data.",
-    impact: "Trained supervised ML models, evaluated accuracy/F1-score, and built a full-stack interface to demonstrate predictions.",
-    stack: ["Python", "Scikit-learn", "Flask", "React"],
-    color: "sky",
-    year: 2024,
-    repoUrl: "https://github.com/1divy2/Parkinson-s-Prediction",
+    slug: "veritas-feed",
+    title: "VERITAS//FEED",
+    tagline: "A real-time visual intelligence and disinformation detection platform.",
+    problem: "Analysts struggle to identify, track, and verify rapidly evolving disinformation narratives because data is siloed across disconnected text tables and feeds.",
+    impact: "Engineered a responsive intelligence dashboard with real-time Firestore synchronization, interactive knowledge graphs, and automated CI/CD deployments to Firebase Hosting.",
+    stack: ["React", "TanStack Router", "Firestore", "Tailwind CSS"],
+    color: "coral",
+    year: 2026,
+    liveUrl: "#", // Added so the Live button shows up next to Repo
+    repoUrl: "https://github.com/1divy2/veritas-feed",
   },
   {
     slug: "stockpile",
