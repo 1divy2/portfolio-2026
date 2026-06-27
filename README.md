@@ -4,7 +4,7 @@
 
 A high-performance, retro-futuristic developer portfolio built to showcase projects, skills, and professional experience. Designed with a clean, pixel-perfect aesthetic inspired by retro gaming consoles and modern brutalism.
 
-**Live Site:** [https://portfolio.divysuper678.workers.dev](https://portfolio.divysuper678.workers.dev)
+**Live Site:** [https://portfolio.1divy2.workers.dev](https://portfolio.1divy2.workers.dev)
 
 ---
 

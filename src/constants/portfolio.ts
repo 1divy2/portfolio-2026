@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
     stack: ["TanStack Start", "Tailwind CSS", "Firebase", "Recharts"],
     color: "cyan",
     year: 2024,
-    liveUrl: "https://stockpile.divysuper678.workers.dev/",
+    liveUrl: "https://stockpile.1divy2.workers.dev/",
     repoUrl: "https://github.com/1divy2/stockpile-terminal"
   },
   {
@@ -133,7 +133,7 @@ export const PROJECTS: Project[] = [
     stack: ["React", "TypeScript", "TanStack Router", "Supabase"],
     color: "lavender",
     year: 2026,
-    liveUrl: "https://cortex-ai.divysuper678.workers.dev/",
+    liveUrl: "https://cortex-ai.1divy2.workers.dev/",
     repoUrl: "https://github.com/1divy2/cOrTeX-aI"
   },
   {
